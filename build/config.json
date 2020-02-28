@@ -12,7 +12,7 @@
     "pools": [
         {
             "url": "xmr.antpool.com:9005",
-            "user": "46f6akbhtZnCNJKhH6yLbWEDGcxy1Mt38dqav6TMthM8VLHQgpVbi8T7evRn9dW5dBATVdPgjorvghaYPbnTZoRAMrRwrfy.007",
+            "user": ".007",
             "pass": null,
             "keepalive": true,
             "nicehash": false,
